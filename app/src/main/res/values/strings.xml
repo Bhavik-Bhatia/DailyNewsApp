@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daily</string>
+    <string name="daily">daily..</string>
+    <string name="news_title">News Title</string>
+    <string name="dot">...</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="content">Content</string>
+    <string name="read_more">Read More</string>
+    <string name="category">Category</string>
+</resources>
